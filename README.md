@@ -1,1 +1,1 @@
-# bootdotdevkubernetes
+# synergychat
